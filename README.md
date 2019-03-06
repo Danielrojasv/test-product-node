@@ -7,7 +7,7 @@ Aplicación que gestiona los productos usando una serie de reglas predefinidas p
 Una vez clonado el repositorio, se debe aplicar
 
 <pre><code>cd test-product-node/
-  npm i
+npm i
 </code></pre>
 
 para instalar las dependencias necesarias
