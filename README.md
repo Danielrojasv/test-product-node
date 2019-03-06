@@ -16,11 +16,11 @@ para instalar las dependencias necesarias
 
 De acuerdo a lo solicitado, para obtener un reporte de casos de pruebas aplicar
 
-<code>npm run test</code>
+<pre><code>npm run test</code></pre>
 
 y para obtener un reporte de 30 días de los productos entregados
 
-<code>npm run after-30-days</code>
+<pre><code>npm run after-30-days</code></pre>
 
 Estos productos se gestionan en el archivo index.ts de la raíz.
 
