@@ -21,5 +21,7 @@ y para obtener un reporte de 30 días de los productos entregados
 
 <code>npm run after-30-days</code>
 
+Estos productos se gestionan en el archivo index.ts de la raíz.
+
 Para cualquier pregunta no dudar en contactarme.
 
